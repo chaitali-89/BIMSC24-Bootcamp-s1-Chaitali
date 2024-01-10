@@ -18,7 +18,6 @@ div {
 #sidebar {
     font-size: medium;
     column-rule-color: beige;
-    padding-left: 50px 0;
     position: relative;
     top: 80px
 }
@@ -29,5 +28,5 @@ div {
     font-size: medium;
     position: relative;
     left: 200px;
-    top: 60px
+    top: 55px
 }
